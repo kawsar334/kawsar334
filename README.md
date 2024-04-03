@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm kawsar firoz</h1>
 <h3 align="center">⚡ أنا أعيش في المملكة العربية السعودية. أنا أعرف اللغة العربية (المحكية والمكتوبة)، والإنجليزية الأساسية، والبنغالية الأصلية، والأرد الأصلية، والهندية</h3>
-<img align="right" alt="Coding" width="400" src="https://portfolio-c34cf.firebaseapp.com/imgs/mee.png">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawsar334&label=Profile%20views&color=0e75b6&style=flat" alt="kawsar334" /> </p>
 
