@@ -2,9 +2,7 @@
 <h3 align="center">⚡ Passionate Frontend Developer | MERN Stack Enthusiast</h3>
 <p align="center">I am a self-motivated frontend developer with a passion for creating visually appealing and functional web applications. Currently diving deep into PHP and Laravel, I love solving problems and exploring new technologies to stay updated in the tech world.</p>
 
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_1280.png" alt="Hero Image" width="100%" height="650px" />
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawsar334&label=Profile%20views&color=0e75b6&style=flat" alt="kawsar334" /> </p>
 
