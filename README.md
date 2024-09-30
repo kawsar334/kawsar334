@@ -2,26 +2,6 @@
 <h3 align="center">⚡ Passionate Frontend Developer | MERN Stack Enthusiast</h3>
 <p align="center">I am a self-motivated frontend developer with a passion for creating visually appealing and functional web applications. Currently diving deep into PHP and Laravel, I love solving problems and exploring new technologies to stay updated in the tech world.</p>
 
-<!-- Typing Animation -->
-<div align="center">
-  <h2 id="typing-effect" style="display:inline;"></h2>
-</div>
-
-<script>
-  const typingText = "Welcome to my GitHub Profile!";
-  let index = 0;
-  const typingElement = document.getElementById("typing-effect");
-
-  function type() {
-    if (index < typingText.length) {
-      typingElement.innerHTML += typingText.charAt(index);
-      index++;
-      setTimeout(type, 100);
-    }
-  }
-  type();
-</script>
-
 <p align="center">
   <img src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_1280.png" alt="Coding Vector" width="800px" />
 </p>
