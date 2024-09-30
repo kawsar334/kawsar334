@@ -1,3 +1,8 @@
+<!-- Hero Image - Coding Vector -->
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_1280.png" alt="Coding Vector" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Kawsar Firoz</h1>
 <h3 align="center">⚡ Passionate Frontend Developer | MERN Stack Enthusiast</h3>
 <p align="center">I am a self-motivated frontend developer with a passion for creating visually appealing and functional web applications. Currently diving deep into PHP and Laravel, I love solving problems and exploring new technologies to stay updated in the tech world.</p>
