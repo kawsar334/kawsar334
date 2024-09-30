@@ -2,15 +2,6 @@
 <h3 align="left">⚡ Passionate Frontend Developer | MERN Stack Enthusiast</h3>
 <p align="left">I am a self-motivated frontend developer with a passion for creating visually appealing and functional web applications. Currently diving deep into PHP and Laravel, I love solving problems and exploring new technologies to stay updated in the tech world.</p>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawsar334&label=Profile%20views&color=0e75b6&style=flat" alt="kawsar334" /> </p>
-
-- 🌱 I’m currently learning **PHP, Laravel**
-- 👨‍💻 All of my projects are available at [https://portfolio-c34cf.firebaseapp.com/](https://portfolio-c34cf.firebaseapp.com/)
-- 💬 Ask me about **React.js**
-- 📫 How to reach me: [kawsarfiroz11@gmail.com](mailto:kawsarfiroz11@gmail.com)
-
 ### 🤝 Connect with me:
 
 <p align="left">
@@ -27,6 +18,15 @@
   <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawsar334&label=Profile%20views&color=0e75b6&style=flat" alt="kawsar334" /> </p>
+
+- 🌱 I’m currently learning **PHP, Laravel**
+- 👨‍💻 All of my projects are available at [https://portfolio-c34cf.firebaseapp.com/](https://portfolio-c34cf.firebaseapp.com/)
+- 💬 Ask me about **React.js**
+- 📫 How to reach me: [kawsarfiroz11@gmail.com](mailto:kawsarfiroz11@gmail.com)
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
