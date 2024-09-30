@@ -31,13 +31,11 @@
 <a href="https://www.facebook.com/kawsar334" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40" />
 </a>
-<a href="https://twitter.com/kawsar334" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" />
-</a>
 <a href="mailto:kawsarfiroz11@gmail.com">
-  <img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/gmail-new.png" alt="Email" />
+  <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
