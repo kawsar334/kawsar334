@@ -19,11 +19,26 @@
 
 - 📫 How to reach me **kawsarfiroz11@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect with me:
+
 <p align="left">
-<a href="https://linkedin.com/in/kawsar firoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kawsar firoz" height="30" width="40" /></a>
-<a href="https://fb.com/kawsar firoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kawsar firoz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kawsar-firoz-a140b9237" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://github.com/kawsar334" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/kawsar334" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40" />
+</a>
+<a href="https://twitter.com/kawsar334" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" />
+</a>
+<a href="mailto:kawsarfiroz11@gmail.com">
+  <img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/gmail-new.png" alt="Email" />
+</a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> ### 🛠️ Tech Stack
