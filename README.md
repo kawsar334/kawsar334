@@ -3,7 +3,7 @@
 <p align="center">I am a self-motivated frontend developer with a passion for creating visually appealing and functional web applications. Currently diving deep into PHP and Laravel, I love solving problems and exploring new technologies to stay updated in the tech world.</p>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_1280.png" alt="Coding Vector" width="800px" />
+  <img src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_1280.png" alt="Hero Image" width="100%" height="500px" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawsar334&label=Profile%20views&color=0e75b6&style=flat" alt="kawsar334" /> </p>
@@ -11,31 +11,33 @@
 - 🌱 I’m currently learning **PHP, Laravel**
 - 👨‍💻 All of my projects are available at [https://portfolio-c34cf.firebaseapp.com/](https://portfolio-c34cf.firebaseapp.com/)
 - 💬 Ask me about **React.js**
-- 📫 How to reach me: **kawsarfiroz11@gmail.com**
+- 📫 How to reach me: [kawsarfiroz11@gmail.com](mailto:kawsarfiroz11@gmail.com)
 
 ### 🤝 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/kawsar-firoz-a140b9237" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/kawsar334" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/kawsar334" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="mailto:kawsarfiroz11@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<a href="https://linkedin.com/in/kawsar-firoz-a140b9237" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://github.com/kawsar334" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/kawsar334" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40" />
+</a>
+<a href="mailto:kawsarfiroz11@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> ### 🛠️ Tech Stack
+<p align="left"> 
+### 🛠️ Tech Stack
 
 #### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -58,6 +60,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Disyui](https://img.shields.io/badge/Disyui-FF2D20?style=for-the-badge&logo=disyui&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawsar334&show_icons=true&locale=en&layout=compact" alt="kawsar334" /></p>
