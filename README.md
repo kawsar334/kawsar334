@@ -22,7 +22,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawsar334&label=Profile%20views&color=0e75b6&style=flat" alt="kawsar334" /> </p>
 
-- 🌱 I’m currently learning **PHP, Laravel**
+- 🌱 Portfolio: [https://kawsar334.github.io/kawsars_portfolio/](https://kawsar334.github.io/kawsars_portfolio/)**
 - 👨‍💻 All of my projects are available at [https://portfolio-c34cf.firebaseapp.com/](https://portfolio-c34cf.firebaseapp.com/)
 - 💬 Ask me about **React.js**
 - 📫 How to reach me: [kawsarfiroz11@gmail.com](mailto:kawsarfiroz11@gmail.com)
