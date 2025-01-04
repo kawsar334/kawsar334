@@ -21,12 +21,22 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawsar334&label=Profile%20views&color=0e75b6&style=flat" alt="kawsar334" /> </p>
--  👨‍💻 Modern portfolio design- [https://chimerical-pegasus-583c4b.netlify.app/](https://chimerical-pegasus-583c4b.netlify.app/)
--  👨‍💻 All of my projects are available at [https://kawsarfiroz11.netlify.app/](https://kawsarfiroz11.netlify.app/)
-- 🌱 Portfolio: [https://kawsar334.github.io/kawsars_portfolio/](https://kawsar334.github.io/kawsars_portfolio/)**
-- 👨‍💻portfolio : [https://portfolio-c34cf.firebaseapp.com/](https://portfolio-c34cf.firebaseapp.com/)
-- 💬 Ask me about **React.js**
+- 👨‍💻 Modern Portfolio Design: A clean and minimalistic portfolio to showcase my latest projects.  
+  [https://chimerical-pegasus-583c4b.netlify.app/](https://chimerical-pegasus-583c4b.netlify.app/)
+
+- 🌐 All My Projects: A comprehensive collection of all my past and current work.  
+  [https://kawsarfiroz11.netlify.app/](https://kawsarfiroz11.netlify.app/)
+
+- 🌱 HTML Portfolio: My early work using HTML, CSS, and JavaScript.  
+  [https://kawsar334.github.io/kawsars_portfolio/](https://kawsar334.github.io/kawsars_portfolio/)
+
+- 👨‍💻 React Portfolio: A portfolio built with React.js to highlight my dynamic web development skills.  
+  [https://portfolio-c34cf.firebaseapp.com/](https://portfolio-c34cf.firebaseapp.com/)
+
+- 💬 Ask me about React.js.
+
 - 📫 How to reach me: [kawsarfiroz11@gmail.com](mailto:kawsarfiroz11@gmail.com)
+
 
 <h3 align="left">Languages and Tools:</h3>
 
