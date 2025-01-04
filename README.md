@@ -21,9 +21,10 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawsar334&label=Profile%20views&color=0e75b6&style=flat" alt="kawsar334" /> </p>
-
+-  👨‍💻 Modern portfolio design- [https://chimerical-pegasus-583c4b.netlify.app/](https://chimerical-pegasus-583c4b.netlify.app/)
+-  👨‍💻 All of my projects are available at [https://kawsarfiroz11.netlify.app/](https://kawsarfiroz11.netlify.app/)
 - 🌱 Portfolio: [https://kawsar334.github.io/kawsars_portfolio/](https://kawsar334.github.io/kawsars_portfolio/)**
-- 👨‍💻 All of my projects are available at [https://portfolio-c34cf.firebaseapp.com/](https://portfolio-c34cf.firebaseapp.com/)
+- 👨‍💻portfolio : [https://portfolio-c34cf.firebaseapp.com/](https://portfolio-c34cf.firebaseapp.com/)
 - 💬 Ask me about **React.js**
 - 📫 How to reach me: [kawsarfiroz11@gmail.com](mailto:kawsarfiroz11@gmail.com)
 
