@@ -21,8 +21,6 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawsar334&label=Profile%20views&color=0e75b6&style=flat" alt="kawsar334" /> </p>
-- 👨‍💻 Modern Portfolio Design: A clean and minimalistic portfolio to showcase my latest projects.  
-  [https://chimerical-pegasus-583c4b.netlify.app/](https://chimerical-pegasus-583c4b.netlify.app/)
 
 - 🌐 All My Projects: A comprehensive collection of all my past and current work.  
   [https://kawsarfiroz11.netlify.app/](https://kawsarfiroz11.netlify.app/)
