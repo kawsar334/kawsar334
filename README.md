@@ -3,7 +3,7 @@
 <p align="left">I am a self-motivated frontend developer with a passion for creating visually appealing and functional web applications. Currently diving deep into PHP and Laravel, I love solving problems and exploring new technologies to stay updated in the tech world.</p>
 
 ### 🤝 Connect with me:
- <img src="https://github.com/kawsar334/kawsar334/blob/main/%2B966509325731.png" alt="LinkedIn"/>
+ <img src="https://github.com/kawsar334/kawsar334/blob/main/%2B966509325731.png" alt="banner" style="width: 100%; height: auto;"/>
 <p align="left">
   <a href="https://linkedin.com/in/kawsar-firoz-a140b9237" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
