@@ -2,9 +2,6 @@
 <h3 align="left">⚡ Passionate Frontend Developer | MERN Stack Enthusiast</h3>
 <p align="left">I am a self-motivated frontend developer with a passion for creating visually appealing and functional web applications. Currently diving deep into PHP and Laravel, I love solving problems and exploring new technologies to stay updated in the tech world.</p>
 
-![Banner](https://i.ibb.co/NxB59Bg/banner.png)
-  <img src="https://i.ibb.co/NxB59Bg/banner.png" alt="banner"/>
-![alt text]([http://url/to/img.png](https://i.ibb.co/NxB59Bg/banner.png))
 ### 🤝 Connect with me:
 
 
