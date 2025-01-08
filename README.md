@@ -2,7 +2,10 @@
 <h3 align="left">⚡ Passionate Frontend Developer | MERN Stack Enthusiast</h3>
 <p align="left">I am a self-motivated frontend developer with a passion for creating visually appealing and functional web applications. Currently diving deep into PHP and Laravel, I love solving problems and exploring new technologies to stay updated in the tech world.</p>
 
+<img src="https://kawsar-firoz.imgbb.com/" alt="banner"/>
+
 ### 🤝 Connect with me:
+
 
 <p align="left">
   <a href="https://linkedin.com/in/kawsar-firoz-a140b9237" target="blank">
