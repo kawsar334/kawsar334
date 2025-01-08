@@ -4,7 +4,7 @@
 
 ![Banner](https://i.ibb.co/NxB59Bg/banner.png)
   <img src="https://i.ibb.co/NxB59Bg/banner.png" alt="banner"/>
-
+![alt text]([http://url/to/img.png](https://i.ibb.co/NxB59Bg/banner.png))
 ### 🤝 Connect with me:
 
 
