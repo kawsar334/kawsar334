@@ -24,14 +24,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawsar334&label=Profile%20views&color=0e75b6&style=flat" alt="kawsar334" /> </p>
 
-- 🌐 All My Projects: A comprehensive collection of all my past and current work.  
-  [https://kawsarfiroz11.netlify.app/](https://kawsarfiroz11.netlify.app/)
-
-- 🌱 HTML Portfolio: My early work using HTML, CSS, and JavaScript.  
-  [https://kawsar334.github.io/kawsars_portfolio/](https://kawsar334.github.io/kawsars_portfolio/)
-
-- 👨‍💻 React Portfolio: A portfolio built with React.js to highlight my dynamic web development skills.  
-  [https://portfolio-c34cf.firebaseapp.com/](https://portfolio-c34cf.firebaseapp.com/)
+- 🌐 All My Projects: [https://kawsarfiroz11.netlify.app/](https://kawsarfiroz11.netlify.app/)
 
 - 💬 Ask me about React.js.
 
