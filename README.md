@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Kawsar Firoz</h1>
 <h3 align="left">⚡ Passionate Frontend Developer | MERN Stack Enthusiast</h3>
 <p align="left">I am a self-motivated frontend developer with a passion for creating visually appealing and functional web applications. Currently diving deep into PHP and Laravel, I love solving problems and exploring new technologies to stay updated in the tech world.</p>
-![Banner](https://https://ibb.co/4Wsx52B)
-![Banner](https://i.ibb.co/NxB59Bg/banner.png)
 
+![Banner](https://i.ibb.co/NxB59Bg/banner.png)
+  <img src="https://i.ibb.co/NxB59Bg/banner.png" alt="banner"/>
 
 ### 🤝 Connect with me:
 
